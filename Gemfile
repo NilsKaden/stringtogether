@@ -20,6 +20,7 @@ gem 'unicorn-rails'
 # for integrating react with rails
 gem 'webpacker'
 gem 'react-rails'
+gem 'yarn'
 
 
 # Use SCSS for stylesheets
