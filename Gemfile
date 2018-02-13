@@ -14,7 +14,8 @@ gem 'sqlite3'
 
 # Use Unicorn as the app server
 gem 'unicorn'
-
+gem 'unicorn-rails'
+# the latter one just binds rails s to unicorn
 
 
 # Use SCSS for stylesheets
