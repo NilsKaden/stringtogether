@@ -18,6 +18,8 @@ gem 'unicorn-rails'
 # the latter one just binds rails s to unicorn
 
 # for integrating react with rails
+gem 'webpacker'
+gem 'react-rails'
 
 
 # Use SCSS for stylesheets
